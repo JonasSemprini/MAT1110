@@ -1,2 +1,1 @@
-# MAT1110
- Calculus and Linear Algebra
+# MAT1110 - Calculus and Linear Algebra
